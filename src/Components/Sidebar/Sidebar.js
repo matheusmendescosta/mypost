@@ -22,16 +22,16 @@ function Sidebar() {
       </div>
 
       <footer>
-        <a href="https://www.instagram.com/1matheusmendes/">
+        <a href="https://www.instagram.com/1matheusmendes/" target="_blank">
           Instagram <InstagramLogo size={25}/>
         </a>
-        <a href="https://twitter.com/batheusmendes">
+        <a href="https://twitter.com/batheusmendes" target="_blank">
           Twitter <TwitterLogo size={25}/>
         </a>
-        <a href="https://www.linkedin.com/in/matheusmendescosta/">
+        <a href="https://www.linkedin.com/in/matheusmendescosta/" target="_blank">
           Linkedin <LinkedinLogo size={25}/>
         </a>
-        <a href="https://github.com/matheusmendescosta/">
+        <a href="https://github.com/matheusmendescosta/" target="_blank">
           Github <GithubLogo size={25}/>
         </a>
       </footer>
